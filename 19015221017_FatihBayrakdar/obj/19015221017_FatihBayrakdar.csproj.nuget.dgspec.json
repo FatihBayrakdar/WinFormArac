@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Fatih\\Desktop\\19015221017\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Fatih\\Desktop\\19015221017\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\19015221017\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar.csproj",
+        "projectName": "19015221017_FatihBayrakdar",
+        "projectPath": "C:\\Users\\Fatih\\Desktop\\19015221017\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar.csproj",
+        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fatih\\Desktop\\19015221017\\19015221017_FatihBayrakdar\\19015221017_FatihBayrakdar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
